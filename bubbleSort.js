@@ -1,3 +1,5 @@
+// Sort the array using bubble sort
+
 function bubbleSort(arr) {
     var arrLength = arr.length;
     var sorted;
